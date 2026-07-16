@@ -19,7 +19,7 @@ Construyo **webs y sistemas de reservas que generan clientes** para hostales, re
 | Proyecto | Descripción / Description | Demo |
 |---|---|---|
 | **Portafolio / Reizo** | Web de servicios bilingüe con selector de demos interactivo, i18n sin frameworks y formulario conectado a WhatsApp. / *Bilingual services site with interactive demo selector, framework-free i18n, and a WhatsApp-connected form.* | [🔗 En vivo / Live](https://reizo-web.vercel.app) |
-| **Demo Hostal** | Sistema de reservas directas para hospedaje: catálogo de habitaciones, reserva por WhatsApp, ficha de Google Maps. / *Direct booking system for lodging: room catalog, WhatsApp booking, Google Maps listing.* | 🔜 Próximamente / Coming soon |
+| **Demo Hostal** | Sistema de reservas directas para hospedaje: catálogo de habitaciones, reserva por WhatsApp, ficha de Google Maps. / *Direct booking system for lodging: room catalog, WhatsApp booking, Google Maps listing.* | [🔗 En vivo ](https://demo-hostal-blue.vercel.app/)|
 | **EduTech** | Plataforma educativa (proyecto académico): login, dashboard, gestión de calificaciones y API en PHP con arquitectura MVC. / *Educational platform (academic project): login, dashboard, grades management, and a PHP API with MVC architecture.* | [📂 Repo](https://github.com/Israeldev07/edutech) |
 
 ---
