@@ -2,7 +2,7 @@
 
 ### Ingeniero en Sistemas · Desarrollador Web — Ecuador 🇪🇨
 
-Construyo **webs y sistemas de reservas que generan clientes** para hostales, restaurantes y negocios turísticos en Ecuador. Webs bilingües (ES/EN), optimizadas para Google Maps, con reservas y pedidos directos por WhatsApp — sin comisiones de intermediarios.
+Construyo **webs y sistemas de reservas que generan clientes** para hostales, restaurantes y negocios. Webs bilingües (ES/EN), optimizadas para Google Maps, con reservas y pedidos directos por WhatsApp — sin comisiones de intermediarios.
 
 🌐 **Portafolio y paquetes:** [reizo-web.vercel.app]( https://reizo-web.vercel.app ) · 📩 israelreinoso41@gmail.com
 
