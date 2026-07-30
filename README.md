@@ -4,15 +4,13 @@
 
 Construyo **webs y sistemas de reservas que generan clientes** para hostales, restaurantes y negocios turísticos en Ecuador. Webs bilingües (ES/EN), optimizadas para Google Maps, con reservas y pedidos directos por WhatsApp — sin comisiones de intermediarios.
 
-🌐 **Portafolio y paquetes:** [reizo-web.vercel.app](reizo-web.vercel.app
-) · 📩 israelreinoso41@gmail.com
+🌐 **Portafolio y paquetes:** [reizo-web.vercel.app]( https://reizo-web.vercel.app ) · 📩 israelreinoso41@gmail.com
 
 ---
 
 *I build **websites and booking systems that bring in customers** for hostels, restaurants, and tourism businesses in Ecuador. Bilingual (ES/EN) websites, optimized for Google Maps, with direct WhatsApp bookings — no middleman commissions.*
 
-🌐 ***Portfolio & packages:*** *[reizo-web.vercel.app](reizo-web.vercel.app
-)* · 📩 *israelreinoso41@gmail.com*
+🌐 ***Portfolio & packages:*** *[reizo-web.vercel.app]( https://reizo-web.vercel.app)* · 📩 *israelreinoso41@gmail.com*
 
 ---
 
